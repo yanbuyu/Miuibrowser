@@ -1,1 +1,1 @@
-Customized pure version of miui browser for Miuipurify ROM,Other ROMs may FC.
+Customized pure version of miui browser for Miuipurify ROM,other ROMs use this browser maybe FC.
