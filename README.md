@@ -1,1 +1,38 @@
-Customized pure version of miui browser for Miuipurify ROM,other ROMs use this browser maybe FC.
+#Miuibrowser
+> Customized pure version of miui browser for Miuipurify ROM,other ROMs use this browser maybe FC.
+
+#### 主要功能
+- 去除资讯首页网址
+- 去除资讯首页资讯与视频
+- 去除底栏资讯与视频
+- 去除网址黑名单)
+- 去除去广告白名单
+- 去除横幅广告
+- 去除下载时猜你喜欢
+- 去除资讯首页热搜与搜索建议
+- 默认主页改为简洁主页
+- 强制开启稳定版简洁主页
+- 增加更多搜索引擎
+- 默认搜索引擎设置为夸克
+- 定位我的视频为国际版
+- 去除下载app弹窗
+- 去除想看视频推广
+- 去除下载app时推荐小米商店下载
+- 去除更新按钮
+- 关闭自动下载更新
+- 去除宫格位推送
+- 去除意见反馈设置项
+- 去除隐私政策设置项
+- 去除消息通知管理设置项
+- 去除主页推广的快捷图标
+- 默认开启阻止弹出式窗口
+- 默认关闭个性化推荐
+- 关闭消息推送
+- 去除小说广告
+- 去除小说书架跳转
+- 去除米推
+
+
+#### 更新日志
+* `2020.2.18`
+> 同步更新MIUI11-11.7.14版
